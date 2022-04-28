@@ -20,3 +20,6 @@ const checkAge = function(age){
 checkAge(17)
 checkAge("22ddddd")
 checkAge("34")
+
+let agePrompt =prompt ("Enter age")
+checkAge(agePrompt)
